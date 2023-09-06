@@ -25,10 +25,6 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 - [Projeto 1](https://github.com/Luisedmendes/study-mate): Gerenciador de hábitos feito para FETIN 2023.
 - [Projeto 2](https://github.com/Luisedmendes/RecomendadorDeFilmes): Projeto de um recomendador de filmes utilizando Java e SQL.
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Luisedmenedes&show_icons=true&theme=dark)
-
 ## Entre em Contato
 
 Você pode me encontrar nas seguintes plataformas:
